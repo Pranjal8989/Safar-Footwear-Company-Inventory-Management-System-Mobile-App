@@ -2,7 +2,7 @@
 # https://safarfootware.com/signin
 
 
-![alt text](<Screenshot (170).png>)
+![alt text](<Screenshot (482).png>)
 
 Develop a web and mobile platform for managing and tracking product inventory with role-based access for admin and employees. Implemented features for adding, updating, and deleting inventory, with graphical reports for product availability
 •	Integrated responsive design for the web system and mobile app, ensuring cross-device accessibility.
